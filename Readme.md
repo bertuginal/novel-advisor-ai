@@ -33,7 +33,7 @@
 
 ### ` 🏗️ N-Layered Architecture`
 
-![image](https://github.com/bertuginal/book-advicer/assets/73167951/a412a4f7-875a-4979-a1d2-c581645fb43d)
+![image](https://github.com/bertuginal/novel-advisor-ai/assets/73167951/a412a4f7-875a-4979-a1d2-c581645fb43d)
 
 &nbsp; 
 
@@ -58,9 +58,9 @@
 
 ##  `📸 Aplication Screenshots` 
 
-![image](https://github.com/bertuginal/book-advicer/assets/73167951/b1f8892a-91da-4959-aa77-21ae5b591f98)
+![image](https://github.com/bertuginal/novel-advisor-ai/assets/73167951/b1f8892a-91da-4959-aa77-21ae5b591f98)
 
-![image](https://github.com/bertuginal/book-advicer/assets/73167951/dea4f488-f8d5-442c-a5a8-28b602684e31)
+![image](https://github.com/bertuginal/novel-advisor-ai/assets/73167951/dea4f488-f8d5-442c-a5a8-28b602684e31)
 
 
 
@@ -79,7 +79,7 @@
   docker-compose up -d && docker-compose down 
 ```
 ❸ After all services are up and running with `Docker`:
-- `BookAdviserApiApplication(Back-end)` interface can be accessed from port **8080**
+- `NovelAdvisorAiApplication(Back-end)` interface can be accessed from port **8080**
 - `MongoDB Express` interface can be accessed from port **8081**
 - `Vite + React + TS (front-end)` interface can be accessed from port **5173 or 5174**
 > All running services can access dependent graphic interfaces via the web without being dependent on the local environment.
@@ -95,11 +95,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ❶ Fork the Project
 
-❷ Create your Feature Branch (`git checkout -b feature/book-advicer`)
+❷ Create your Feature Branch (`git checkout -b feature/novel-advisor-ai`)
 
-❸  Commit your Changes (`git commit -m 'Add some book-advicer'`)
+❸  Commit your Changes (`git commit -m 'Add some novel-advisor-ai'`)
 
-❹  Push to the Branch (`git push origin feature/book-advicer`)
+❹  Push to the Branch (`git push origin feature/novel-advisor-ai`)
 
 ❺ Open a Pull Request
    
@@ -109,11 +109,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 <!-- CONTACT -->
 ## ☎️ Contact
 
-📧 E-mail: [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
+📧 **E-mail:** [bertuginal@yahoo.com](mailto:bertuginal@yahoo.com)
 
-📱 Mobile Phone: [(+90) 507 038 33 23](mailto:+905070383323)
-
-📋 Project Link: [https://github.com/bertuginal/book-advicer](https://github.com/bertuginal/novel-advisor-ai)
+ℹ️ **LinkedIn**: [in/bertuginal](https://www.linkedin.com/in/bertuginal/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
