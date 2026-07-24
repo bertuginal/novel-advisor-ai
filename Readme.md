@@ -1,5 +1,5 @@
 
-<div align="center"><h1> :sparkles: PATIKA+ BOOK ADVICER API GROUP PROJECT :sparkles: </h1></div>
+<div align="center"><h1> :sparkles: PATIKA+ NOVEL ADVISOR AI GROUP PROJECT :sparkles: </h1></div>
 <div align="center"><h2> 🚥 FULL STACK AI PROJECT 🚥 </h2> </div>
 
 
@@ -113,7 +113,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 📱 Mobile Phone: [(+90) 507 038 33 23](mailto:+905070383323)
 
-📋 Project Link: [https://github.com/bertuginal/book-advicer](https://github.com/bertuginal/book-advicer)
+📋 Project Link: [https://github.com/bertuginal/book-advicer](https://github.com/bertuginal/novel-advisor-ai)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
